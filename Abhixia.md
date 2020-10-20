@@ -7,6 +7,7 @@ links:
   - Thalamur
   - pyromanti
 title: Abhixia
+kind: faction
 ---
 
 Liten familj i [Thalamur] vars medlemmar är väldigt högfärdiga och stolta. De är kända för att vara

@@ -7,6 +7,7 @@ links:
   - Imageament
   - artefakt
 title: Ackumulator
+kind: concept
 ---
 
 En komponent i en magisk [artefakt] som används för att lagra [Imageament].

@@ -6,6 +6,7 @@ links:
   mention:
   - kaosdemon
 title: Aegrotar
+kind: agent
 ---
 
 En kraftfull [kaosdemon] som liknar en pulserande massa bestående av bölder och inälvor. Den ger

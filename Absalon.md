@@ -9,6 +9,8 @@ links:
   - Okrana
   - Rogerran Londstirm
 title: Absalon
+kind: place
+map: https://res.cloudinary.com/helmgast/image/upload/x_1730,y_537,w_700,h_700,c_crop/v1603129757/uploaded/Mundana-extra.jpg
 ---
 
 Absalon: [Jargisk] stad belägen i provinsen [Okrana]. Absalon har uppskattningsvis 14.000 invånare.

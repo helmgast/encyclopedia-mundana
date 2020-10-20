@@ -6,6 +6,7 @@ links:
   mention:
   - adasier
 title: Adasierkniv
+kind: item
 ---
 
 En sorts huggkniv som används av [adasierna].

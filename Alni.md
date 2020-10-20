@@ -6,6 +6,7 @@ links:
   mention:
   - Consaber
   - Uriens
+kind: domain
 title: Alni
 ---
 

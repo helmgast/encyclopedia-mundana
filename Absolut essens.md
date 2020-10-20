@@ -6,6 +6,7 @@ links:
   mention:
   - alkemi
 title: Absolut essens
+kind: concept
 ---
 
 Inom [alkemin] och ett begrepp som beskriver det tillstånd hos materia då det inte är utsatt för

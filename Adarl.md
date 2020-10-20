@@ -5,6 +5,7 @@ id: Adarl
 links:
   mention:
   - Adarlberget
+kind: place
 title: Adarl
 ---
 

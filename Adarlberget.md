@@ -9,7 +9,9 @@ links:
   - geotropi
   - högmagisk
   - termotropi
+kind: place
 title: Adarlberget
+map: https://res.cloudinary.com/helmgast/image/upload/x_2210,y_427,w_500,h_500,c_crop/v1603129757/uploaded/Mundana-extra.jpg
 ---
 
 Det nordliga Adarlberget som ligger nordväst om [Kraggbergen] är en plats där [termotropi],

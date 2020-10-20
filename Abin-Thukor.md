@@ -9,6 +9,8 @@ links:
   - Thalamur
   - cirefaliska
 title: 'Abin-Thukor'
+kind: place
+map: https://res.cloudinary.com/helmgast/image/upload/x_2881,y_491,w_500,h_500,c_crop/v1603129757/uploaded/Mundana-extra.jpg
 ---
 
 Stad i [Thalamur] som ligger på gränsen till [Caserion]. Staden är en vältrafikerad handelsstad med

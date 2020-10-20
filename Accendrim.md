@@ -9,6 +9,7 @@ links:
   - Västlanden
   - drake
 title: Accendrim
+kind: agent
 ---
 
 [Mûhads] himmelsblå [drake], förknippas med den första Gudahärskaren (Se [Mhîm]). Alltjämt en

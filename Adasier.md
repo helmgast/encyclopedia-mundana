@@ -7,6 +7,7 @@ links:
   - Jargiska kejsardömet
   - Maazenträsket
 title: Adasier
+kind: faction
 ---
 
 Ett folkslag som lever i den södra delarna av [Jargiska kejsardömet], speciellt i det beryktade

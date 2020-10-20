@@ -7,6 +7,7 @@ links:
   - Dhuk
   - 'Urad-Them'
 title: '''Abi Ken'
+kind: agent
 ---
 
 Förgöraren. Monster som sägs härja i djunglerna omkring [Dhuk] och längs floden [Urad-Them].

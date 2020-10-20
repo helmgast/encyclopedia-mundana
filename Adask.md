@@ -6,6 +6,7 @@ links:
   mention:
   - Adasier
 title: Adask
+kind: concept
 ---
 
 [Adasiernas] modersmål.

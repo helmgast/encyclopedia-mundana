@@ -6,6 +6,7 @@ links:
   mention:
   - Perina
 title: Administratens palats
+kind: place
 ---
 
 Administratens palats i [Perina] är ett arkitektoniskt mästerverk. Palatset är byggt som ett stort

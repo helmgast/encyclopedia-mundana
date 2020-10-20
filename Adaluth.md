@@ -7,6 +7,7 @@ links:
   - Danarth
   - Thalamur
 title: Adaluth
+kind: place
 ---
 
 [Danarths] huvudstad under nekrokraterna som nu ligger i det som är norra [Thalamur].

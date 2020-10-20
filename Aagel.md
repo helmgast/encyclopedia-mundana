@@ -8,6 +8,7 @@ links:
   - Nekromanti
   - 'Sin-Megada'
 title: Aagel
+kind: agent
 ---
 
 [Nekromantiker] som levde tillsamman med sin tvillingsyster, symbolisten [Damaga], i [Sin-Megada].

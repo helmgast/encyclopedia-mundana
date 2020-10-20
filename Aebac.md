@@ -6,6 +6,7 @@ links:
   mention:
   - Alarinn
 title: Aebac
+kind: agent
 ---
 
 En avfälling från [Alarinn] som lever på flykt som prisjägare.

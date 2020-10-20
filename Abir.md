@@ -6,6 +6,7 @@ links:
   mention:
   - Mhîmrätten
 title: '''Abir'
+kind: concept
 ---
 
 Titeln på en andlig ledare inom [Mhîmrätten]. En 'abir är andligt överhuvud för en stad och dess
