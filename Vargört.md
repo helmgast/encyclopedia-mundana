@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-30T20:09:29Z'
 id: Vargört
 links: {}

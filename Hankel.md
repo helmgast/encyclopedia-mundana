@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-07T15:09:59Z'
 id: Hankel
 links:

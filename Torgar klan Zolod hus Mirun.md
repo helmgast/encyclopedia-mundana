@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-28T19:28:31Z'
 id: Torgar klan Zolod hus Mirun
 links:

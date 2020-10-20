@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T20:55:07Z'
 id: Naith Sabes stora bok om drakar
 links:

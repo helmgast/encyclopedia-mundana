@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-29T18:21:11Z'
 id: Latzaranc
 links:

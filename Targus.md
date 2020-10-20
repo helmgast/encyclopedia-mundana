@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-21T19:50:52Z'
 id: Targus
 links:

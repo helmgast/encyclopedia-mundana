@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T19:33:30Z'
 id: Bet
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T14:05:11Z'
 id: Fusion
 links:

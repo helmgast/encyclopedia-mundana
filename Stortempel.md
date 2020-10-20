@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-13T18:27:09Z'
 id: Stortempel
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-13T19:14:06Z'
 id: Sothfurt
 links:

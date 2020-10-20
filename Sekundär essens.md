@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-14T19:31:16Z'
 id: Sekundär essens
 links:

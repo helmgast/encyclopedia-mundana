@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-28T19:50:23Z'
 id: Martaris förkämpe
 links:

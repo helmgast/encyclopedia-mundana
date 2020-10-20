@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-29T16:21:22Z'
 id: 'Ra-An-Gahannon da Gahan'
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T20:27:07Z'
 id: Bukhari
 links:

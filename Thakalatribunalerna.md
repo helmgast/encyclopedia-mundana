@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-27T18:08:06Z'
 id: Thakalatribunalerna
 links:

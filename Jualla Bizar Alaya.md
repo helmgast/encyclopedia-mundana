@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-08T20:19:26Z'
 id: Jualla Bizar Alaya
 links:

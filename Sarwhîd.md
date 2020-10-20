@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-14T19:18:21Z'
 id: Sarwhîd
 links:

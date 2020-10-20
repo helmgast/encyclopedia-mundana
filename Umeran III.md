@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-03T19:27:17Z'
 id: Umeran III
 links:

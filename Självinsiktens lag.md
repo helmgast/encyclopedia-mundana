@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-18T12:45:19Z'
 id: Självinsiktens lag
 links:

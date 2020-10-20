@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T17:28:15Z'
 id: Sunai petya
 links:

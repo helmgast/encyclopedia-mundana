@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T18:33:04Z'
 id: 'Athon Dan Itan-Athen'
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-03T19:19:20Z'
 id: Udekanda
 links:

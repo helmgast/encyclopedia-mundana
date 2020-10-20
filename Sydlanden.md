@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T16:57:04Z'
 id: Sydlanden
 links:

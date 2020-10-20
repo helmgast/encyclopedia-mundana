@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T12:48:58Z'
 id: Falassi
 links:

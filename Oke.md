@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-04T20:25:51Z'
 id: Oke
 links:

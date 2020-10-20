@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T17:44:24Z'
 id: St Derador
 links:

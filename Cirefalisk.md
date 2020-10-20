@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-08T19:54:02Z'
 id: Cirefalisk
 links:

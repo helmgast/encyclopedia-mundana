@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T07:28:46Z'
 id: Kamand av Xerims ätt
 links:

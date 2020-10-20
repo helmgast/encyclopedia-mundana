@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-04T20:50:22Z'
 id: Oriton
 links:

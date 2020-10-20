@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-29T16:24:12Z'
 id: Rabiel den Vilde
 links:

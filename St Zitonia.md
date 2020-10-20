@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T18:14:06Z'
 id: St Zitonia
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-13T18:11:20Z'
 id: Stjärnrådet
 links:

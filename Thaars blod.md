@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-27T18:06:11Z'
 id: Thaars blod
 links: {}

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-07T17:07:34Z'
 id: Hjaon Rincan
 links:

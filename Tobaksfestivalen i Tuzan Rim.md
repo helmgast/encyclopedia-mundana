@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-27T18:29:30Z'
 id: Tobaksfestivalen i Tuzan Rim
 links:

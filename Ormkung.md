@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-04T20:51:17Z'
 id: Ormkung
 links: {}

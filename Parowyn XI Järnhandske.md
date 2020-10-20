@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-25T18:41:13Z'
 id: Parowyn XI Järnhandske
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-28T20:03:04Z'
 id: Melonman
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T19:54:59Z'
 id: Bittra köldens fäste
 links: {}

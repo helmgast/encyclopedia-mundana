@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T17:28:35Z'
 id: Sunai shel conornin
 links:

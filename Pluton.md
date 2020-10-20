@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-25T19:54:04Z'
 id: Pluton
 links:

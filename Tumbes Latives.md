@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-28T19:09:50Z'
 id: Tumbes Latives
 links:

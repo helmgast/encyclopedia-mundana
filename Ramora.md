@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-02-19T11:44:27Z'
 id: Ramora
 links:

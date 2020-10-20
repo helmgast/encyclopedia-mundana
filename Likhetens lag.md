@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-29T22:24:58Z'
 id: Likhetens lag
 links:

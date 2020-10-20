@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-05T13:43:11Z'
 id: Krotzbergen
 links:

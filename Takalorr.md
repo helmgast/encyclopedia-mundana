@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-21T19:14:07Z'
 id: Takalorr
 links:

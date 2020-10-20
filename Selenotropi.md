@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-14T19:32:34Z'
 id: Selenotropi
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T09:14:43Z'
 id: Kiriya
 links:

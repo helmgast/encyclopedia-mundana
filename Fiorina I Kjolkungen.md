@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T13:20:25Z'
 id: Fiorina I Kjolkungen
 links:

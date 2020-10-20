@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-30T19:05:52Z'
 id: Lyssnandets ring
 links:

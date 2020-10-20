@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-03T19:45:44Z'
 id: Uppgående stjärnans eviga fall
 links:

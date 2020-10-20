@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-04T20:43:18Z'
 id: Oraklet i Salan
 links:

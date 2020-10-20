@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-14T19:16:04Z'
 id: Sardan
 links:

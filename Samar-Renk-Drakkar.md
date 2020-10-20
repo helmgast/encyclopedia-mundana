@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T14:55:56Z'
 id: 'Samar-Renk-Drakkar'
 links:

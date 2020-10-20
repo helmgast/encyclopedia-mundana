@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-21T19:48:04Z'
 id: Tarak
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-29T22:29:11Z'
 id: Lirmana
 links:

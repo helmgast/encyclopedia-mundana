@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T09:03:47Z'
 id: Myndar
 links:

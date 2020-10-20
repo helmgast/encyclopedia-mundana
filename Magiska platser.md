@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-28T18:20:37Z'
 id: Magiska platser
 links:

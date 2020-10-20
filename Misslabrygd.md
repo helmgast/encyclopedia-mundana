@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-28T20:46:12Z'
 id: Misslabrygd
 links:

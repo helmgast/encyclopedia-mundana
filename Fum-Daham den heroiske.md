@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T14:02:12Z'
 id: 'Fum-Daham den heroiske'
 links:

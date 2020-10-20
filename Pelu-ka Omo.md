@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-25T18:58:22Z'
 id: 'Pelu-ka Omo'
 links:

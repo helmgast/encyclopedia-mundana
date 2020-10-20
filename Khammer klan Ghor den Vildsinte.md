@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T08:44:57Z'
 id: Khammer klan Ghor den Vildsinte
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-28T18:59:55Z'
 id: Tzarmun Riskoz
 links:

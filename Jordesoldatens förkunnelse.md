@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-08T20:13:47Z'
 id: Jordesoldatens förkunnelse
 links:

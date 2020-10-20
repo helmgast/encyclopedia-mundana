@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-25T18:53:56Z'
 id: Paul Jisselon
 links:

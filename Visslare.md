@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-30T21:22:42Z'
 id: Visslare
 links: {}

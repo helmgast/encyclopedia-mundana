@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-08T20:24:00Z'
 id: Jungfrubräde
 links: {}

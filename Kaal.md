@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T07:14:29Z'
 id: Kaal
 links:

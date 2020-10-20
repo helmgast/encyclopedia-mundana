@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T09:12:16Z'
 id: Kinyen Sina
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-25T20:04:03Z'
 id: Primasens mantel
 links:

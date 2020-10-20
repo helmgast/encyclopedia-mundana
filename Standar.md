@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-13T17:58:44Z'
 id: Standar
 links: {}

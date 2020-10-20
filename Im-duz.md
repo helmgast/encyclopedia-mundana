@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-07T18:53:33Z'
 id: 'Im-duz'
 links:

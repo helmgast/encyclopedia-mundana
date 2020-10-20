@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-18T13:41:58Z'
 id: Sköldränning
 links:

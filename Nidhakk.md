@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T21:27:02Z'
 id: Nidhakk
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T09:02:05Z'
 id: Khrazo klan Zolod hus Ziliz
 links:

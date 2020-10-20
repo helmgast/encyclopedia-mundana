@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T13:06:02Z'
 id: 'Felya-nai'
 links:

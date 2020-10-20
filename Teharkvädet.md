@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-21T20:42:45Z'
 id: Teharkvädet
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-14T19:16:44Z'
 id: Sarik sheldiv
 links:

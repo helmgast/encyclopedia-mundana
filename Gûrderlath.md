@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-04-01T09:03:12Z'
 id: Gûrderlath
 links:

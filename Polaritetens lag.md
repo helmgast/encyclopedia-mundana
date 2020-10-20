@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-25T19:56:07Z'
 id: Polaritetens lag
 links:

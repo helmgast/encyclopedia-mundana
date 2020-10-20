@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T17:54:35Z'
 id: Apokryfisk magi
 links:

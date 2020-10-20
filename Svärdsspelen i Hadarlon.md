@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T17:07:25Z'
 id: Svärdsspelen i Hadarlon
 links:

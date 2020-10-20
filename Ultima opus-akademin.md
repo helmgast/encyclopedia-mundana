@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-03T19:22:36Z'
 id: 'Ultima opus-akademin'
 links:

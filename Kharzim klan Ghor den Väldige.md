@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T08:48:26Z'
 id: Kharzim klan Ghor den Väldige
 links:

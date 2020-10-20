@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T21:43:21Z'
 id: 'Nitor-Renk-Ghor'
 links:

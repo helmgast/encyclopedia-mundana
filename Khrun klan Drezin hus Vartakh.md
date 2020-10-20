@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T09:02:56Z'
 id: Khrun klan Drezin hus Vartakh
 links:

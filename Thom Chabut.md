@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-27T17:30:06Z'
 id: Thom Chabut
 links:

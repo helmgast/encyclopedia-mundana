@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T22:01:42Z'
 id: Nymåne
 links: {}

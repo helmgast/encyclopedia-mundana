@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T09:00:37Z'
 id: Månskenshovet
 links:

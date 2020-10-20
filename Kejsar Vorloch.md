@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-09T08:08:14Z'
 id: Kejsar Vorloch
 links:

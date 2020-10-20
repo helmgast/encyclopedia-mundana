@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T14:09:20Z'
 id: Förbannelsen
 links:

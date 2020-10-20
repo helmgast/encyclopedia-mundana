@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T18:08:12Z'
 id: Arno av Utkulla
 links:

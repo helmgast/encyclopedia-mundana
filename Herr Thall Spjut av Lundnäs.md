@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-07T16:57:13Z'
 id: Herr Thall Spjut av Lundnäs
 links:

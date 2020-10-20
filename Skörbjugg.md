@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-18T13:42:23Z'
 id: Skörbjugg
 links: {}

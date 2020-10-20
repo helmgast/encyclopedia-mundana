@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T12:56:34Z'
 id: Fastebark
 links: {}

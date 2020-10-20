@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-03-11T14:52:16Z'
 id: Samor den Helige
 links:

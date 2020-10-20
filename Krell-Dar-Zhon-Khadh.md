@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-05T13:12:53Z'
 id: 'Krell-Dar-Zhon-Khadh'
 links:

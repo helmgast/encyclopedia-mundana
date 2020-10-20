@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-06T12:12:56Z'
 id: Laboratorium
 links:

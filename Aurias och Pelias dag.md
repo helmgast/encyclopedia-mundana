@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-01-05T18:37:02Z'
 id: Aurias och Pelias dag
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-07T19:29:34Z'
 id: Irghan klan Ghor hus Vartakh
 links:

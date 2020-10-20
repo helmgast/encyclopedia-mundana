@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-29T20:57:46Z'
 id: Nakterhus
 links: {}

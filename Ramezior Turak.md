@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-01-29T16:49:12Z'
 id: Ramezior Turak
 links:

@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-03-30T13:11:05Z'
 id: Festivalen i Camard
 links:

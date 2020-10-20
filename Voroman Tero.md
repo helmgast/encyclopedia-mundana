@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-11-30T21:35:17Z'
 id: Voroman Tero
 links:

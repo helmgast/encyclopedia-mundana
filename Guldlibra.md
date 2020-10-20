@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-04-01T08:59:49Z'
 id: Guldlibra
 links:

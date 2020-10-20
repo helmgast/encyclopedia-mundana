@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2012-02-19T13:20:03Z'
 id: Repfäktarnas gille
 links:

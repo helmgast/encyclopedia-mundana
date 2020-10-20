@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-08-08T20:21:01Z'
 id: Julien den Sluge
 links:

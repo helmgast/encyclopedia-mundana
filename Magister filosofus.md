@@ -1,5 +1,5 @@
 ---
-author: Wahnstrom.se
+author: Anton
 created_at: '2011-12-28T18:21:49Z'
 id: Magister filosofus
 links:
