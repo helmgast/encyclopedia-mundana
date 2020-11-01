@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-10-30T19:23:46Z'
 id: Kraftkälla
 links:

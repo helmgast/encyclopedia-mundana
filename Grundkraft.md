@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-04-01T08:46:08Z'
 id: Grundkraft
 links:

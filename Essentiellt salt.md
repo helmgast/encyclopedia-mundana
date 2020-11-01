@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T08:35:15Z'
 id: Essentiellt salt
 links:

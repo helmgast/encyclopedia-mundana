@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T09:31:25Z'
 id: Clara med vagnen
 links:

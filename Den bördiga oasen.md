@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:26:49Z'
 id: Den bördiga oasen
 links:

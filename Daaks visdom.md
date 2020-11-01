@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T11:27:10Z'
 id: Daaks visdom
 links:

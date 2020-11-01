@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-31T12:23:42Z'
 id: Gladiatorakademin i Camard
 links:

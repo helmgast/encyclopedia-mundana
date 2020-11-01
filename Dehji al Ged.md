@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:21:03Z'
 id: Dehji al Ged
 links:

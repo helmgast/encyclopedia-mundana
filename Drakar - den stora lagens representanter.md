@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T15:33:24Z'
 id: 'Drakar - den stora lagens representanter'
 links:

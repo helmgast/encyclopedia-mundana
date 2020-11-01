@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T12:07:29Z'
 id: De sex tusen trappstegen
 links:

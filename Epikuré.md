@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T08:23:45Z'
 id: Epikuré
 links:

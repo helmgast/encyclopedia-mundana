@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T09:52:42Z'
 id: Conisbrough I Sjöfararen
 links:

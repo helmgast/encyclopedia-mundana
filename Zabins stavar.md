@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T10:30:21Z'
 id: Zabins stavar
 links:

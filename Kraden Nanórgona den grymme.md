@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-10-30T19:14:30Z'
 id: Kraden Nanórgona den grymme
 links:

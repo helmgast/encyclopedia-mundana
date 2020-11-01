@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T11:22:14Z'
 id: Daakkyrkan
 links:

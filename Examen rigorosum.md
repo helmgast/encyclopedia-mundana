@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T08:41:38Z'
 id: Examen rigorosum
 links:

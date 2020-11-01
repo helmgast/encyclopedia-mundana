@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:51:20Z'
 id: Dibuks bägare
 links:

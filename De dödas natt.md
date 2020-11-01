@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T12:01:20Z'
 id: De dödas natt
 links:

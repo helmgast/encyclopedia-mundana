@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T21:36:03Z'
 id: Drezins svek
 links:

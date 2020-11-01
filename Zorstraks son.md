@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T09:52:38Z'
 id: Zorstraks son
 links:

@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T11:56:44Z'
 id: Yttersta cirkeln
 links:

@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-06T22:03:38Z'
 id: Cirefaliskt blinksystem
 links:

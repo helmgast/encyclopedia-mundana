@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T12:10:44Z'
 id: De västra bergens drake
 links:

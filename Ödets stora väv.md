@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T09:36:33Z'
 id: Ödets stora väv
 links:

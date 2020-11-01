@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:27:16Z'
 id: Den eviga omvälvningen
 links:

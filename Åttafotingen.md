@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T09:41:52Z'
 id: Åttafotingen
 links: {}

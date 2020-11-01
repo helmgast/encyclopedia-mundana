@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:38:50Z'
 id: Det allseende ögat
 links:

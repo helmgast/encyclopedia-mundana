@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T08:48:32Z'
 id: Eyrens öga
 links:

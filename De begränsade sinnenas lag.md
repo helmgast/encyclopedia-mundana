@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T12:00:07Z'
 id: De begränsade sinnenas lag
 links:

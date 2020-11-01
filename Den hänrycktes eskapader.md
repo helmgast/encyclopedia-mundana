@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:28:59Z'
 id: Den hänrycktes eskapader
 links:

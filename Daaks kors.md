@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T11:23:48Z'
 id: Daaks kors
 links:

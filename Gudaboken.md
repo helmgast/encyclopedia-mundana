@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-04-01T08:49:33Z'
 id: Gudaboken
 links:

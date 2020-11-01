@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-10-30T18:38:06Z'
 id: Kompani
 links:

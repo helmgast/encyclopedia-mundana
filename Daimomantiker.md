@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T11:33:39Z'
 id: Daimomantiker
 links:

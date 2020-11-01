@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-06T21:39:34Z'
 id: Ceremoni
 links:

@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-31T12:56:21Z'
 id: Gozarzynas tempel
 links:

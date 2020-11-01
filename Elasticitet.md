@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-03-30T07:50:55Z'
 id: Elasticitet
 links:

@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T22:00:46Z'
 id: Dödsnoderna
 links:

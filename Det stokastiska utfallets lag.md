@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T14:40:57Z'
 id: Det stokastiska utfallets lag
 links:

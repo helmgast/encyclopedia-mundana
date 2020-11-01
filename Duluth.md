@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T21:49:27Z'
 id: Duluth
 links: {}

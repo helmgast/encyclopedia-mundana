@@ -1,4 +1,5 @@
 ---
+author: Anton
 created_at: '2011-01-07T12:07:48Z'
 id: De sex ömsningarna
 links:
